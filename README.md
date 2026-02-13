@@ -1,4 +1,3 @@
-<img width="1465" height="835" alt="image" src="https://github.com/user-attachments/assets/81f999e4-06b1-45e3-b5f7-97330f09b5fe" /># Greatest-and-Smallest-of-the-given-numbers-Using-8085
 
 ## Aim:
 
